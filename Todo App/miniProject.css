@@ -1,0 +1,19 @@
+h1 {
+    color:red;
+    text-decoration: underline;
+    
+}
+.unorder {
+    color:brown;
+}
+.delete {
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    margin: 0.2rem;
+}
+body {
+    font-family: arial;
+    
+}
+
